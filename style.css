@@ -1,10 +1,7 @@
 
-
 body {
     font-family: 'Poppins', sans-serif;
     background-color: ##F8C78E;
-    background-image:url(images/homepage.png);
-    background-repeat: no-repeat;
 
 }
 
@@ -13,10 +10,7 @@ p {
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.7em;
-    color:#59594B;;
-}
-h1{
-    text-align: left
+    color:#59594B;
 }
 
 a,
